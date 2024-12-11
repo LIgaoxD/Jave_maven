@@ -7,7 +7,7 @@
 Maven 强调标准化的项目结构，图书馆管理系统的基本结构如下：
 
 ```
-library-management/
+cloud-library/
 ├── src
 │   ├── main
 │   │   ├── java                // Java 源代码

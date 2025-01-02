@@ -43,7 +43,7 @@ cloud-library/
 
 # 简单介绍maven框架 🎯
 
-Maven 是一个开源的项目管理和构建工具，主要用于 Java 项目的依赖管理和自动化构建。它通过使用统一的 **POM (Project Object Model)** 文件来管理项目的配置信息，从而简化了开发和构建流程。
+Maven 是一个开源的项目管理和构建工具，主要用于 Java 项目的依赖管理和自动化构建；它通过使用统一的 **POM (Project Object Model)** 文件来管理项目的配置信息，从而简化了开发和构建流程。
 
 以下是 Maven 的几个核心特点和功能：
 
